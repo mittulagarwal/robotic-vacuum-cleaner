@@ -1,0 +1,12 @@
+## 🛠️ Hardware Components
+- Arduino Uno/Nano
+- L298N Motor Driver
+- 2 × DC Gear Motors + Wheels (drive)
+- HC-SR04 Ultrasonic Distance Sensor
+- High-speed DC Suction Motor (dust compartment)
+- Servo Motor (for rotating sensor / nozzle)
+- Chassis, caster wheel, battery pack, wiring
+- Two-wheel differential drive (forward, backward, left, right)
+- Obstacle detection and automatic turning
+- Continuous high-pressure suction motor for dust collection
+- Servo-based head movement to scan left/right for better path
